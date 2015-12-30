@@ -1,0 +1,28 @@
+name: Johnny Neang
+favicon: null
+layout_spectrum: 0.18609382747672498
+typography_spectrum: 0.5233739579562098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4312101532705128
+  lightness: 0.4291748034302145
+  saturation: 0.3199157516937703
+  rhythmicContrast: 0.6617321304511279
+purpose: []
